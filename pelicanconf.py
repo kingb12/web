@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Brendan King'
 SITENAME = 'Brendan King'
-SITEURL = ''
+SITEURL = 'https://kingb12.github.io'
 THEME = '/Users/bking/pelican/pelican-themes/pelican-bootstrap3'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 PLUGIN_PATHS = ['/Users/bking/pelican/pelican-plugins'] 
