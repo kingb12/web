@@ -11,4 +11,4 @@ In my final two quarters as a University of Washington undergraduate, I complete
 
 I will be adding some highlights here as I finish building this website.
 
-A copy of my final report as submitted is available [here](https://raw.githubusercontent.com/kingb12/kingb12.github.io/master/CSE498FinalReportFINAL.pdf)
+A copy of my final report as submitted is available [here](https://kingb12.github.io/pdf/recipe-generation.pdf')
